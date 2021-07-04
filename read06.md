@@ -3,7 +3,7 @@
 
 
 ## Three Ways to Insert CSS
-* There are three ways of inserting a style sheet: *
+*There are three ways of inserting a style sheet: *
 
 * External CSS
 * Internal CSS
