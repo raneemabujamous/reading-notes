@@ -101,25 +101,21 @@ the information you present
 1. class
 2. ID
 
-## ** *JAVASCRIPT* **
+## ** * [JAVASCRIPT](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647) * **
 ### why do we use JAVASCRIPT in our website?
 *JavaScript allows you to make web pages more interactive by accessing and modifying the content and markup used in a web page while it is being viewed in the browser.*
 ### what the A B C in programing mean ?
-A B C 
-What is a script and how do I How do computers fit in with How do I write a script for a 
-create one? the world around them? web page? 
-Once you have learned the basics, the following chapters will show how the JavaScript 
-language can be used to tell browsers what you want them to do
 
+| A           | B           | C |
+| ----------- | ----------- |
+| What is a script and how do I create one?      | How do computers fit in withthe world around them?       |How do I write a script for a web page? |
 
+### WRITING A SCRIPT 
+To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
 
-
-
-
-
-
-
-
+1. DEFINE THE GOAL 
+ 2. DESIGN THE SCRIPT 
+3. CODE EACH STEP 
 
 
 
