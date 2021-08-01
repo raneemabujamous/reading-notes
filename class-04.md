@@ -63,4 +63,7 @@ h2 {
 h3 {
   text-align: right;
 }`
+<<<<<<< HEAD
 ............
+=======
+>>>>>>> 07ba6574540ff5f68a4b54c6d7a9dff3d5a0e9ee
